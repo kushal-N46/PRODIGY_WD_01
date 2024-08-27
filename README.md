@@ -1,6 +1,8 @@
 # PRODIGY_WD_01
-HELMETS 
-The "Helmets" project is a modern, responsive e-commerce website designed to offer a seamless shopping experience for helmet enthusiasts. Built with a focus on user engagement and intuitive navigation, this website combines aesthetic appeal with functional design to enhance online shopping for various helmet collections.
+
+
+*The "Helmets" project is a modern, responsive e-commerce website designed to offer a seamless shopping experience for helmet enthusiasts. Built with a focus on user engagement and intuitive navigation, this website combines aesthetic appeal with functional design to enhance online shopping for various helmet collections.
+
 Key Features
 1.Responsive Navigation
 2.Interactive Header
