@@ -5,17 +5,31 @@
 
 Key Features
 1.Responsive Navigation
+
+
 2.Interactive Header
+
+
 3.Service Section
+
+
 4.New Arrivals
+
+
 5.Community Engagement
+
+
 6.Footer
+
+
 7.Web Technologies Integration
 
 Technologies Used
-HTML: Structuring the content of the site.
 
-CSS: Styling the layout and design.
 
-JavaScript: Handling interactivity and dynamic features, such as the side navigation menu and scroll-based background color changes.
+*HTML: Structuring the content of the site.
+
+*CSS: Styling the layout and design.
+
+*JavaScript: Handling interactivity and dynamic features, such as the side navigation menu and scroll-based background color changes.
 
